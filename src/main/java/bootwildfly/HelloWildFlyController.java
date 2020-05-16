@@ -12,7 +12,7 @@ public class HelloWildFlyController {
         return ("Hello, SpringBoot on Wildfly");
     }
 
-    @RequestMapping("getresult")
+    @RequestMapping("result")
     public String result(){
         return ("Getting Result:.................");
     }
