@@ -1,4 +1,4 @@
-This demo works well on OC. Tested!
+This demo works well on OC Wildfly. Tested! -V
 
 This is a repo to use as a quickstart to start working with Spring Boot and deploying to the WildFly application server.  This uses the mvn build system and creates a .war file that can be deployed.  The code also contains a sample REST based service listening at /hello.
 
